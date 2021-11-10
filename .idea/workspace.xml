@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5763710a-8e89-4b75-b968-f48f2acd1a07" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../../Svelte/EduSpaceFinal/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.pbxproj" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.xcworkspace/xcuserdata/lalit.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/1024x1024.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Icon-60@2x-1.png" afterDir="false" />
@@ -25,6 +26,23 @@
       <change beforePath="$PROJECT_DIR$/../../../HTML/Dojo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HTML/Dojo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HTML/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HTML/WickEditor/.idea/WickEditor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/src.a2b27638.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/src.a2b27638.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/src.a2b27638.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/src.a2b27638.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/src.e31bb0bc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/src.e31bb0bc.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/src.e31bb0bc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/src.e31bb0bc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/xterm.470b3c38.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/xterm.470b3c38.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/xterm.470b3c38.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/dist/xterm.470b3c38.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/Galileo Connect.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../React/electron-project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React/electron-project" afterDir="false" />
@@ -75,7 +93,7 @@
       <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/svelte.config.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/tsconfig.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.pbxproj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/xcuserdata/lalit.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
@@ -273,7 +291,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1636552991" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1636552990" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/client" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="20iucdHc3sHR0bV9ThHKXxxbbYg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -295,6 +338,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/server" />
     </key>
@@ -311,7 +355,7 @@
       <workItem from="1636549626157" duration="31000" />
       <workItem from="1636549726163" duration="550000" />
       <workItem from="1636551367260" duration="6000" />
-      <workItem from="1636551517246" duration="1318000" />
+      <workItem from="1636551517246" duration="1705000" />
     </task>
     <servers />
   </component>
