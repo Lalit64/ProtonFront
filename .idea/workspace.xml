@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5763710a-8e89-4b75-b968-f48f2acd1a07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Svelte/EduSpaceFinal/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.xcworkspace/xcuserdata/lalit.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/1024x1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Icon-60@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Icon-60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Icon-60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Icon-Notification@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Icon-Small-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Icon-Small-40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Icon-Small@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Icon-Small@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arduino/LCD/inols-clangd-err.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Arduino/LCD/inols-clangd-err.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arduino/LCD/inols-clangd.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Arduino/LCD/inols-clangd.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arduino/LCD/inols-err.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Arduino/LCD/inols-err.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arduino/LCD/inols.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Arduino/LCD/inols.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/SIK_Circuit_4A-LCDHelloWorld.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/SIK_Circuit_4A-LCDHelloWorld.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/inols-clangd-err.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/inols-clangd-err.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/inols-clangd.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/inols-clangd.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/inols-err.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/inols-err.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/inols.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Arduino/SIK_Circuit_4A-LCDHelloWorld/inols.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HTML/Dojo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HTML/Dojo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HTML/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HTML/WickEditor/.idea/WickEditor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/Galileo Connect.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/electron-project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React/electron-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/GalileoMessages/src/routes/signup.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Svelte/GalileoMessages/src/routes/signup.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/src/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/src/global.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/src/routes/index.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/static/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/svelte.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/SvelteKitTemplate/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/.idea/Template.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/global.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/hooks.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/lib/Counter.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/lib/form.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/lib/header/Header.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/lib/header/svelte-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/lib/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/routes/__layout.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/routes/about.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/routes/index.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/routes/todos/[uid].json.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/routes/todos/_api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/routes/todos/index.json.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/src/routes/todos/index.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/static/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/static/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/static/svelte-welcome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/static/svelte-welcome.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/svelte.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Svelte/Template/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/xcuserdata/lalit.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/xcuserdata/lalit.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.xcworkspace/xcuserdata/lalit.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/xcuserdata/twostraws.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/project.xcworkspace/xcuserdata/twostraws.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/xcuserdata/lalit.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/xcuserdata/lalit.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/xcuserdata/lalit.xcuserdatad/xcschemes/Trekr.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/xcuserdata/lalit.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/xcuserdata/lalit.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/xcuserdata/twostraws.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro.xcodeproj/xcuserdata/twostraws.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Aljezur, Portugal.imageset/Aljezur, Portugal.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Aljezur, Portugal.imageset/Aljezur, Portugal.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Aljezur, Portugal.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Aljezur, Portugal.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/1024x1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/Icon-60@2x-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/Icon-60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/Icon-60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/Icon-Notification@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/Icon-Small-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/Icon-Small-40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/Icon-Small@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AppIcon.appiconset/Icon-Small@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Australia.imageset/Australia@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Australia.imageset/Australia@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Australia.imageset/Australia@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Australia.imageset/Australia@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Australia.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Australia.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Baltimore, USA.imageset/Baltimore, USA.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Baltimore, USA.imageset/Baltimore, USA.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Baltimore, USA.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Baltimore, USA.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Bothell, USA.imageset/Bothell, USA.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Bothell, USA.imageset/Bothell, USA.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Bothell, USA.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Bothell, USA.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Canada.imageset/Canada@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Canada.imageset/Canada@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Canada.imageset/Canada@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Canada.imageset/Canada@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Canada.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Canada.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Egypt.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Egypt.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Egypt.imageset/Egypt@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Egypt.imageset/Egypt@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Egypt.imageset/Egypt@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Egypt.imageset/Egypt@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Frisco, Texas.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Frisco, Texas.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Frisco, Texas.imageset/Frisco, Texas.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Frisco, Texas.imageset/Frisco, Texas.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Frisco_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Frisco_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Frisco_Img.imageset/Frisco_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Frisco_Img.imageset/Frisco_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Galileo.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Galileo.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Galileo.imageset/Galileo Headquarters.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Galileo.imageset/Galileo Headquarters.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Image-1.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Image-1.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Image-1.imageset/Sarlat-la-Canéda, France.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Image-1.imageset/Sarlat-la-Canéda, France.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/India.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/India.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/India.imageset/India@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/India.imageset/India@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/India.imageset/India@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/India.imageset/India@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Italy.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Italy.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Italy.imageset/Italy@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Italy.imageset/Italy@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Italy.imageset/Italy@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Italy.imageset/Italy@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Japan.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Japan.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Japan.imageset/Japan@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Japan.imageset/Japan@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Japan.imageset/Japan@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Japan.imageset/Japan@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Joburg_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Joburg_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Joburg_Img.imageset/Joburg_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Joburg_Img.imageset/Joburg_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Johannesburg, South Africa.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Johannesburg, South Africa.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Johannesburg, South Africa.imageset/profileimg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Johannesburg, South Africa.imageset/profileimg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/London, UK.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/London, UK.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/London, UK.imageset/London, UK.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/London, UK.imageset/London, UK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Loulé, Portugal.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Loulé, Portugal.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Loulé, Portugal.imageset/Loulé, Portugal.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Loulé, Portugal.imageset/Loulé, Portugal.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Malaysia.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Malaysia.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Malaysia.imageset/Malaysia@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Malaysia.imageset/Malaysia@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Malaysia.imageset/Malaysia@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Malaysia.imageset/Malaysia@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Mauritius.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Mauritius.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Mauritius.imageset/Mauritius@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Mauritius.imageset/Mauritius@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Mauritius.imageset/Mauritius@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Mauritius.imageset/Mauritius@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/New Delhi, India.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/New Delhi, India.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/New Delhi, India.imageset/New Delhi, India.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/New Delhi, India.imageset/New Delhi, India.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Newberg, Oregon.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Newberg, Oregon.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Newberg, Oregon.imageset/Newborn, Oregon.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Newberg, Oregon.imageset/Newborn, Oregon.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Ontario, Canada.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Ontario, Canada.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Ontario, Canada.imageset/Ontario, Canada.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Ontario, Canada.imageset/Ontario, Canada.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Palma, Spain.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Palma, Spain.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Palma, Spain.imageset/Palma, Spain.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Palma, Spain.imageset/Palma, Spain.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Sarlat-la-Canéda, France.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Sarlat-la-Canéda, France.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Sarlat-la-Canéda, France.imageset/Sarlat-la-Canéda, France.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Sarlat-la-Canéda, France.imageset/Sarlat-la-Canéda, France.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Seattle, USA.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Seattle, USA.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/Seattle, USA.imageset/Seattle, USA.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/Seattle, USA.imageset/Seattle, USA.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/TipText.colorset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/TipText.colorset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/United Kingdom.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/United Kingdom.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/United Kingdom.imageset/United Kingdom@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/United Kingdom.imageset/United Kingdom@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/United Kingdom.imageset/United Kingdom@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/United Kingdom.imageset/United Kingdom@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/United States.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/United States.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/United States.imageset/United States@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/United States.imageset/United States@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/United States.imageset/United States@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/United States.imageset/United States@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/abu-simbel.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/abu-simbel.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/abu-simbel.imageset/abu-simbel@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/abu-simbel.imageset/abu-simbel@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/aljezur_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/aljezur_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/aljezur_Img.imageset/aljezur_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/aljezur_Img.imageset/aljezur_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/baltimore_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/baltimore_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/baltimore_Img.imageset/baltimore_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/baltimore_Img.imageset/baltimore_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/black-river-gorges.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/black-river-gorges.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/black-river-gorges.imageset/black-river-gorges@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/black-river-gorges.imageset/black-river-gorges@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/blue-mountains.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/blue-mountains.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/blue-mountains.imageset/blue-mountains@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/blue-mountains.imageset/blue-mountains@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/bothell_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/bothell_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/bothell_Img.imageset/bothell_Img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/bothell_Img.imageset/bothell_Img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/codingBanner.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/codingBanner.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/codingBanner.imageset/codingBanner.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/codingBanner.imageset/codingBanner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/codingxpBanner.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/codingxpBanner.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/codingxpBanner.imageset/codingxpBanner.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/codingxpBanner.imageset/codingxpBanner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/delhi_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/delhi_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/delhi_Img.imageset/delhi_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/delhi_Img.imageset/delhi_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/highlands.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/highlands.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/highlands.imageset/highlands@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/highlands.imageset/highlands@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/image.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/image.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/image.imageset/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/image.imageset/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/knight-inlet.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/knight-inlet.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/knight-inlet.imageset/knight-inlet@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/knight-inlet.imageset/knight-inlet@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/kyoto.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/kyoto.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/kyoto.imageset/kyoto@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/kyoto.imageset/kyoto@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/london_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/london_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/london_Img.imageset/london_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/london_Img.imageset/london_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/loule_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/loule_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/loule_Img.imageset/loule_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/loule_Img.imageset/loule_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/ontario_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/ontario_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/ontario_Img.imageset/ontario_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/ontario_Img.imageset/ontario_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/palma_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/palma_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/palma_Img.imageset/palma_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/palma_Img.imageset/palma_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/penang.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/penang.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/penang.imageset/penang@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/penang.imageset/penang@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo1-thumb.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo1-thumb.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo1-thumb.imageset/photo1-thumb@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo1-thumb.imageset/photo1-thumb@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo1.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo1.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo1.imageset/photo1@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo1.imageset/photo1@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo1.imageset/photo1@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo1.imageset/photo1@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo2-thumb.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo2-thumb.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo2-thumb.imageset/photo2-thumb@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo2-thumb.imageset/photo2-thumb@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo2.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo2.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo2.imageset/photo2@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo2.imageset/photo2@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo2.imageset/photo2@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo2.imageset/photo2@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo3-thumb.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo3-thumb.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo3-thumb.imageset/photo3-thumb@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo3-thumb.imageset/photo3-thumb@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo3.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo3.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo3.imageset/photo3@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo3.imageset/photo3@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo3.imageset/photo3@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo3.imageset/photo3@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo4-thumb.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo4-thumb.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo4-thumb.imageset/photo4-thumb@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo4-thumb.imageset/photo4-thumb@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo4.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo4.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo4.imageset/photo4@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo4.imageset/photo4@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo4.imageset/photo4@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo4.imageset/photo4@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo5-thumb.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo5-thumb.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo5-thumb.imageset/photo5-thumb@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo5-thumb.imageset/photo5-thumb@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo5.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo5.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo5.imageset/photo5@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo5.imageset/photo5@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo5.imageset/photo5@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo5.imageset/photo5@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo6-thumb.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo6-thumb.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo6-thumb.imageset/photo6-thumb@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo6-thumb.imageset/photo6-thumb@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo6.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo6.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo6.imageset/photo6@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo6.imageset/photo6@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo6.imageset/photo6@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo6.imageset/photo6@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo7-thumb.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo7-thumb.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo7-thumb.imageset/photo7-thumb@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo7-thumb.imageset/photo7-thumb@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo7.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo7.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo7.imageset/photo7@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo7.imageset/photo7@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo7.imageset/photo7@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo7.imageset/photo7@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo8-thumb.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo8-thumb.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo8-thumb.imageset/photo8-thumb@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo8-thumb.imageset/photo8-thumb@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo8.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo8.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo8.imageset/photo8@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo8.imageset/photo8@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/photo8.imageset/photo8@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/photo8.imageset/photo8@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/proBanner.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/proBanner.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/proBanner.imageset/proBanner.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/proBanner.imageset/proBanner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/proBanner2.0.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/proBanner2.0.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/proBanner2.0.imageset/proBanner2.0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/proBanner2.0.imageset/proBanner2.0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/sarlat_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/sarlat_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/sarlat_Img.imageset/sarlat_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/sarlat_Img.imageset/sarlat_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/seattle_Img.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/seattle_Img.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/seattle_Img.imageset/seattle_Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/seattle_Img.imageset/seattle_Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/smokies.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/smokies.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/smokies.imageset/smokies@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/smokies.imageset/smokies@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/taj-mahal.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/taj-mahal.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/taj-mahal.imageset/taj-mahal@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/taj-mahal.imageset/taj-mahal@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/verona.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/verona.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/verona.imageset/verona@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/verona.imageset/verona@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/xpBanner.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/xpBanner.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/xpBanner.imageset/xpBanner(1).png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Assets.xcassets/xpBanner.imageset/xpBanner(1).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/ContentView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Location.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Location.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Locations.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Locations.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Tip.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/Tip.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/TipsView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/TipsView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/TrekrApp.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/TrekrApp.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/WebView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/WebView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/WorldView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/WorldView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/locations.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/locations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/tips.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Coding Pro/tips.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="20iucdHc3sHR0bV9ThHKXxxbbYg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="17.0.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.7" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5763710a-8e89-4b75-b968-f48f2acd1a07" name="Changes" comment="" />
+      <created>1636539811952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636539811952</updated>
+      <workItem from="1636539815462" duration="3980000" />
+      <workItem from="1636549626157" duration="31000" />
+      <workItem from="1636549726163" duration="550000" />
+      <workItem from="1636551367260" duration="6000" />
+      <workItem from="1636551517246" duration="1318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
