@@ -26,22 +26,6 @@
       <change beforePath="$PROJECT_DIR$/../../../HTML/Dojo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HTML/Dojo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HTML/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HTML/WickEditor/.idea/WickEditor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/src.a2b27638.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/src.a2b27638.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/src.a2b27638.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/src.a2b27638.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/src.e31bb0bc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/src.e31bb0bc.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/src.e31bb0bc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/src.e31bb0bc.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/xterm.470b3c38.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/xterm.470b3c38.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/xterm.470b3c38.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/xterm.470b3c38.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/Galileo Connect.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/modules.xml" afterDir="false" />
@@ -355,7 +339,7 @@
       <workItem from="1636549626157" duration="31000" />
       <workItem from="1636549726163" duration="550000" />
       <workItem from="1636551367260" duration="6000" />
-      <workItem from="1636551517246" duration="1705000" />
+      <workItem from="1636551517246" duration="1861000" />
     </task>
     <servers />
   </component>
